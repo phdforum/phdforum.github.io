@@ -4,7 +4,7 @@ title: PhD Forum: Meet the groups
 category: lecture
 lecturers: Analysis and Optimization group
 location: Zoom
-date: 2021-01-28 16:00:00 CET
+date: 2020-01-28 16:00:00 CET
 ---
 
 Do you know what your colleagues from other research groups are doing? It could be that you share research interests with someone from a section you would never suspect… It’s time to find out! This time we will start from the Analysis and Optimization groups.
