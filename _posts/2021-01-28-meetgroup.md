@@ -5,6 +5,7 @@ category: lecture
 location: Zoom
 date: 2021-01-28 16:00:00 CET
 ---
+
 Do you know what your colleagues from other research groups are doing? It could be that you share research interests with someone from a section you would never suspect… It’s time to find out! This time we will start from the Analysis and Optimization groups.
 
 The tentative schedule for the meeting is as follows:
