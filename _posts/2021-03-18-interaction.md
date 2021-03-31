@@ -1,10 +1,10 @@
 ---
 layout: lecture
-title: PhD Forum: Interacting with fellow researchers
+title: Interacting with fellow researchers
 category: lecture
 lecturers: Mikola Schlottke and Vandana Dwarka
 location: Zoom
-date: 2020-03-18 16:00:00 CET
+date: 2021-03-18 16:00:00 CET
 ---
 
 In this Forum we want to share our experiences on how to have useful interactions with fellow researchers. We invited two (former) PhD students to give a talk about this topic and tell us how interactions can lead to research collaborations. After hearing their stories, we will have a group discussion.
