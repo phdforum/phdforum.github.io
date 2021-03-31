@@ -2,6 +2,7 @@
 layout: lecture
 title: PhD Forum: Interacting with fellow researchers
 category: lecture
+lecturers: Mikola Schlottke and Vandana Dwarka
 location: Zoom
 date: 2021-03-18 16:00:00 CET
 ---
