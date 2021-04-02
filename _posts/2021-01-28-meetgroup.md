@@ -2,7 +2,7 @@
 layout: lecture
 title: Meet the groups
 category: lecture
-lecturers: Analysis and Optimization group
+lecturers: the Analysis and Optimization group
 location: Zoom
 date: 2021-01-28 16:00:00 CET
 ---
