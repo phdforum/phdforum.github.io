@@ -18,3 +18,5 @@ The tentative schedule for the meeting is as follows:
 16:30 Introduction to the Optimization group
 
 17:00 Social event (using “breakout rooms”)
+
+![meet](/images/meet.png)

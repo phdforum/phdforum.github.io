@@ -22,3 +22,6 @@ The tentative schedule for the meeting is as follows:
 16:50 Social event (using “breakout rooms”)
 
 As you know very well by now, we like to conclude our meetings with a social activity. This time, we will do a speed dating event, in which you will have the chance to talk one on one with several colleagues for a few minutes each.
+
+
+The [notes](/../presentations/notes.pdf) of our group discussion are also available.
