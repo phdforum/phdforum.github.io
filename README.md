@@ -1,3 +1,2 @@
-# projectbanana.github.io
+# phdforum.github.io
 
-For room reservation email `Servicepunt-EWI@tudelft.nl`
