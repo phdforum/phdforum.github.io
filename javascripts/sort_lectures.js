@@ -26,7 +26,7 @@ window.onload = function()
     if (upcoming.length > 0)
     {
       var h = document.createElement('h3');
-      h.textContent = 'Upcoming lectures';
+      h.textContent = 'Upcoming meetings';
       el_lectures.appendChild(h);
 
       var ul = document.createElement('ul');
@@ -39,7 +39,7 @@ window.onload = function()
     if (past.length > 0)
     {
       var h = document.createElement('h3');
-      h.textContent = 'Past lectures';
+      h.textContent = 'Past meetings';
       el_lectures.appendChild(h);
 
       var ul = document.createElement('ul');
