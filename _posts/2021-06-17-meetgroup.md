@@ -13,13 +13,13 @@ The tentative schedule for the meeting is as follows:
 
 16:00 Introduction to the day's program
 
-16:05 Introduction to Probability group by Bart van Ginkel
+16:05 Introduction to [Probability group](/../presentations/GroupAppliedProb_Bart.pdf) by Bart van Ginkel
 
 16:12 Presentation from Simone Floreani on probabilistic models.
 
 16:19 Presentation from Jan-Tino Brethouwer on Game Theory
 
-16:25 Introduction to Mathematical Physics by Amey Vasulkar followed by presentation on Mathematical Data Science.
+16:25 Introduction to [Mathematical Physics](/../presentations/Mathematical Physics_Amey.pdf) by Amey Vasulkar followed by presentation on Mathematical Data Science.
 
 16:35 Presentation from Henk Jongbloed on differential equations in Estuarine modelling.
 
@@ -27,4 +27,4 @@ The tentative schedule for the meeting is as follows:
 
 17:00 Speed Dating Social event 
 
-![meet](/images/meet.png)
+
