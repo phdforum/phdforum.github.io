@@ -19,7 +19,7 @@ The tentative schedule for the meeting is as follows:
 
 16:19 Presentation from Jan-Tino Brethouwer on Game Theory
 
-16:25 Introduction to [Mathematical Physics](/../presentations/Mathematical Physics_Amey.pdf) by Amey Vasulkar followed by presentation on Mathematical Data Science.
+16:25 Introduction to [Mathematical Physics](/../presentations/IntroMP_Amey.pdf) by Amey Vasulkar followed by presentation on Mathematical Data Science.
 
 16:35 Presentation from Henk Jongbloed on differential equations in Estuarine modelling.
 
