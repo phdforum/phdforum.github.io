@@ -1,3 +1,6 @@
 name: PhD Forum 
 timezone: Europe/Amsterdam
 future: true
+markdown: kramdown
+gems:
+  - jekyll-redirect-from
