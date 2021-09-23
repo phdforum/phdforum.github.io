@@ -3,7 +3,7 @@ layout: lecture
 title: First in-person meeting
 category: lecture
 lecturers: Bart van Ginkel, Tom van der Beek and Amey Vasulkar 
-location: Zoom
+location: Lecture hall Data
 date: 2021-09-16 16:00:00 CET
 ---
 
