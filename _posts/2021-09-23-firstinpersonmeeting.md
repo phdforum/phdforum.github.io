@@ -4,7 +4,7 @@ title: First in-person meeting
 category: lecture
 lecturers: Bart van Ginkel, Tom van der Beek and Amey Vasulkar 
 location: Lecture hall Data
-date: 2021-09-16 16:00:00 CET
+date: 2021-09-16 16:00:00 CET+1
 ---
 
 In this meeting we gave a short introduction to the PhD Forum with what we do and where we stand in the numerous forums and councils at TU Delft. Following this, we discussed the results of the questionnaire and got to know more about your fellow PhDs. In this discussion, we also introduced the new PhDs who started during the pandemic. 
