@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title:KNAW Workshop
+title: KNAW Workshop
 category: lecture
 lecturers: Mikola Schlottke and Vandana Dwarka
 location: Zoom
