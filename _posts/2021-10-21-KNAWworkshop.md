@@ -7,6 +7,9 @@ location: Lecture hall Data
 date: 2021-10-21 15:00:00 CET
 ---
 
-In this PhD Forum we will have a workshop on science communication organised by Mariette Oosterwegel from [Samenweten](https://samenweten.nl/en/), which is part of the Dutch Royal Academy of Sciences ([KNAW](https://www.knaw.nl/en?set_language=en)). The workshop is divided in two parts. In the first half, Mariette will discuss the importance of science communication with an interactive session. In the second half, three scientists with experience in science communication will form a panel and share their stories and answer questions from the audience (=us!). The three panel members will be [Klaas Landsman](https://www.math.ru.nl/~landsman/) (Radboud University Nijmegen), [Eline van der Kruk](https://elinevanderkruk.com) (TU Delft), and [Anne Land](https://www.universiteitleiden.nl/medewerkers/anne-land-zandstra#tab-1) (Leiden University).
+In this PhD Forum we will have a workshop on science communication organised by Mariette Oosterwegel from [Samenweten](https://samenweten.nl/en/), which is part of the Dutch Royal Academy of Sciences ([KNAW](https://www.knaw.nl/en?set_language=en)). The workshop is divided in two parts. In the first half, Mariette will discuss the importance of science communication with an interactive session. In the second half, three scientists with experience in science communication will form a panel and share their stories and answer questions from the audience (=us!). The three panel members will be
+- [Klaas Landsman](https://www.math.ru.nl/~landsman/) (Radboud University Nijmegen)
+- [Eline van der Kruk](https://elinevanderkruk.com) (TU Delft)
+- [Anne Land](https://www.universiteitleiden.nl/medewerkers/anne-land-zandstra#tab-1) (Leiden University)
 
 ![Samenweten](/images/samenweten.png)
