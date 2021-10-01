@@ -12,4 +12,6 @@ In this PhD Forum we will have a workshop on science communication organised by 
 - [Eline van der Kruk](https://elinevanderkruk.com) (TU Delft)
 - [Anne Land](https://www.universiteitleiden.nl/medewerkers/anne-land-zandstra#tab-1) (Leiden University)
 
+At the end of the workshop (around 17:30) we will have drinks and bites at the /Pub in EWI offered by the department. 
+
 ![Samenweten](/images/samenweten.png)
