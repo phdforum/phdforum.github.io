@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: KNAW Workshop
+title: Workshop on science communication
 category: lecture
 lecturers: Mariette Oosterwegel
 location: Lecture hall Data
