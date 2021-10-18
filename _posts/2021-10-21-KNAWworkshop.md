@@ -3,7 +3,7 @@ layout: lecture
 title: Workshop on science communication
 category: lecture
 lecturers: Mariette Oosterwegel
-location: Lecture hall Data
+location: Lecture hall Data (EWI)
 date: 2021-10-21 15:00:00 CET
 ---
 
