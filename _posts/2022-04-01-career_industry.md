@@ -7,8 +7,7 @@ location: Lecture hall Chip, EWI
 date: 2022-04-01 16:00:00 CET
 ---
 
-In this Forum, we will discuss what it's like to enter the industry after doing a PhD in mathematics (or related fields). 
-Currently the confirmed guests are from Optiver and Mathworks.
+In this Forum, we will discuss what it's like to enter the industry after doing a PhD in mathematics (or related fields). For this we have invited guests from industries as finance, software, and engineering.
 
 
 The program for this Forum is the following:
@@ -17,7 +16,7 @@ The program for this Forum is the following:
 
 16:05 Introduction of the panel
 
-16:10 Panel with questions from the board and the audience
+16:20 Panel with questions from the board and the audience
 
 17:30 Drinks at the Civil Engineering pub
 
