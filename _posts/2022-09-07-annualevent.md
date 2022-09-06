@@ -4,7 +4,7 @@ title: First annual PhD-Faculty event
 category: lecture
 lecturers: PhD Forum
 location: Aula - Commissiekamer 3
-date: 2022-09-07 09:00:00 CET
+date: 2022-09-07 08:00:00 CET
 ---
 
 The schedule of the meeting is the following:
