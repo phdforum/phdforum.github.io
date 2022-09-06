@@ -13,7 +13,9 @@ The schedule of the meeting is the following:
 
 09:30     Opening by PhD Forum and presentation by Kees Vuik on the current state of DIAM
 
-10:00     Presentation Frank Redig: How to be a good PhD Student
+09:50     A brief history of the PhD Forum
+
+10:00     Presentation Frank Redig: "What is a good PhD"
 
 10:30     Coffee break
 
