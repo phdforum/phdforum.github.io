@@ -3,21 +3,20 @@ layout: lecture
 title: First annual PhD-Faculty event
 category: lecture
 lecturers: PhD Forum
-location: Aula
+location: Aula - Commissiekamer 3
 date: 2022-09-07 09:00:00 CET
 ---
 
-Have you ever wondered what your post-phd life could look like? Still doubting between a career in industry or academia? This is the moment to ask all your questions during a Q&A session with alumni!
-
-After this session, a social-event will take place. Here, state-of-the-art algorithms will be used to maximize the social interaction within the breakout rooms!
-
-
-The tentative schedule for the meeting is as follows:
-
-16:00 Introduction of the DIAM PhD forum and discussion of survey results
-
-16:10 Q&A session with alumni (from academia and industry)
-
-16:55 Wrap-up
-
-17:00 Social event (using “breakout rooms”)
+The schedule of the meeting is the following:
+ 
+09:00     Arrival with coffee
+09:30     Opening by PhD Forum and presentation by Kees Vuik on the current state of DIAM
+10:00     Presentation Frank Redig: How to be a good PhD Student
+10:30     Coffee break
+11:00     Panel Discussion | Well-being and supervision of PhD Students. The panel members are:
+·         Mark Veraar from Analysis
+·         Alethea Barbaro from Mathematical Physics
+·         Yuki Murakami from Optimization
+12:15     Lunch with posters*
+ 
+After lunch the PhD’s will go to Race Planet Delft for some karting and bowling, roughly between 14:00 and 17:00. After that, we will have dinner at Bar Sil on the Beestenmarkt. The pizzas are rumoured to be very good!
