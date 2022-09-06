@@ -4,7 +4,7 @@ title: First annual PhD-Faculty event
 category: lecture
 lecturers: PhD Forum
 location: Aula
-date: 2021-09-07 16:00:00 CET
+date: 2022-09-07 09:00:00 CET
 ---
 
 Have you ever wondered what your post-phd life could look like? Still doubting between a career in industry or academia? This is the moment to ask all your questions during a Q&A session with alumni!
