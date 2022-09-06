@@ -2,7 +2,7 @@
 layout: lecture
 title: First annual PhD-Faculty event
 category: lecture
-lecturers: PhD Forum
+lecturers: Kees Vuik, Andrea, Frank Redig, Mark Veraar, Alethea Barbaro, Yuki Murakami
 location: Aula - Commissiekamer 3
 date: 2022-09-07 08:00:00 CET
 ---
