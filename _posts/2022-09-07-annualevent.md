@@ -7,7 +7,7 @@ location: Aula - Commissiekamer 3
 date: 2022-09-07 08:00:00 CET
 ---
 
-Photos from this meeting can be found on our <a>< href="https://www.flickr.com/photos/196458073@N03/albums">Flickr page</a>.
+Photos from this meeting can be found on our <a href="https://www.flickr.com/photos/196458073@N03/albums">Flickr page</a>.
  
 The schedule of the meeting is the following:
  
