@@ -7,6 +7,8 @@ location: Aula - Lecture hall D
 date: 2023-09-21 09:30:00 CET
 ---
 
+Photos from this meeting can be found on our <a href="https://www.flickr.com/photos/196458073@N03/albums/72177720311467652/">Flickr page</a>.
+
 In the morning there will be informative talks and a panel discussion focused on career prospects for Math PhDs, followed by a lunch and a fun activity + dinner - all completely free!
 The morning programme will be on campus (Aula, Lecture Hall D):
 -	9:00-9:30 - Arrival with coffee, welcome word by Jan van Neerven
