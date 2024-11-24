@@ -3,7 +3,7 @@ layout: lecture
 title: Creating your personal website
 category: lecture
 lecturers: Joffrey Wallaart, Emiel Lorist   
-location: Lecture hall F (EWI)
+location: Snijderszaal (LB 01.010) (EWI)
 date: 2024-02-28 16:00:00 CET
 ---
 
