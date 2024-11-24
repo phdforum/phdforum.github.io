@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: Third Annual Event
+title: Third annual event
 category: lecture
 lecturers: Karen Aardal, Elvira Gonzalez, Matthijs Vernooij, Emiel Lorist, Tina Nane, Vandana Dwarka
 location: Aula - Lecture Hall D
